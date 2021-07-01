@@ -19,3 +19,6 @@ ul li{
     display: inline-flex;
     margin: 10px;
 }
+.class{
+    color: red;
+}
